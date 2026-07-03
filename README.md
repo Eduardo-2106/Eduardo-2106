@@ -1,4 +1,5 @@
-# 💫 Olá 👋, Eu sou o Eduardo Henrique
+# 💫 Olá 👋, Eu sou o Eduardo Henrique &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="75" height="75" alt="swordartonlineavatarGIF" src="https://github.com/user-attachments/assets/7538e18c-4ac4-45e6-9ca6-3bfa733a3ff2" /> 
+
 
 🔭 Estudante de Engenharia da Computação | Programação, IA & Cybersecurity | Buscando Estágio
 
